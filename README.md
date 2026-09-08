@@ -36,4 +36,4 @@ Google yalnız domain ve subdomain seviyesini kabul eder; alt dizin (`site.com/b
 
 Okuyucunun Google ekranında seçimi tamamlayıp tamamlamadığı ölçülemez. Raporda "kaç kişi tıkladı" denir, "kaç kişi ekledi" denmez.
 
-Sayfalardaki yazı tipleri gameplus.com.tr üzerinden çağrılır; bu depoda font dosyası bulunmaz.
+Bu depoda font dosyası bulunmaz. Markanın lisanslı yazı tipleri (New Science, GreycliffCF) paylaşılan bir depoya konulamaz ve gameplus.com.tr üzerinden cross-origin da çekilemiyor; demo sayfalarında karakteri yakın açık lisanslı karşılıklar kullanıldı (New Science yerine Archivo, GreycliffCF yerine Nunito Sans). Canlıda markanın kendi yazı tipleri geçerlidir, kartın kodu font dosyası taşımaz.

@@ -4,8 +4,8 @@ Google'ın site sahiplerine açtığı **tercih edilen kaynak** yetkisi için ha
 
 | Sayfa | İçerik |
 |---|---|
-| `index.html` / `kart.html` | Kartın yalın gösterimi |
-| `yazi.html` | Kartın gerçek yerinde durduğu örnek blog yazısı |
+| `index.html` / `yazi.html` | Kartın gerçek yerinde durduğu örnek blog yazısının tamamı |
+| `kart.html` | Kartın yazıdan bağımsız, yalın gösterimi |
 | `kart-kodu.html` | Blog şablonuna yapıştırılacak kod (stil + işaretleme) |
 
 ## Kart

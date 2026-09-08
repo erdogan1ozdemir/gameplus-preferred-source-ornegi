@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/fonts/:dosya*",
+      "destination": "https://gameplus.com.tr/_next/static/media/:dosya*"
+    }
+  ]
+}
